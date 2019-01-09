@@ -13,11 +13,16 @@
 
 ## Todo
 
-- Add animation start and end screen
+Beside refactoring, the below is what I would like to work on if I have more time.
+
+- Undo
+- Auto move from cascade columns to foundation when you have proper sequence to move them  
+- Add some animation with cards on start / end screen
+- Multiple cards move when you have cards in sequence and enough space in the free cells
 - Add animation when you clear the game
-- Add animation when you can/can't drop your card on free cells, foundations and cascade columns.
 - remove unused files as it is based on React Boilerplate 
 - favicon
+- Write test
 
 ## Card images are from:
 
