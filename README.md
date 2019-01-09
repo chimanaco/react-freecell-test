@@ -8,9 +8,9 @@
 
 ## What I have
 
-- start screen
-- game screen
-- end screen
+- Start screen
+- Game screen
+- End screen
 
 ## Loading json
 
