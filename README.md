@@ -13,7 +13,7 @@
 
 ## Todo
 
-Beside refactoring and cleaning files, the below is what I would like to work on if I have more time.
+Beside refactoring and cleaning up files, the below is what I would like to work on if I have more time.
 
 - Undo to move a card
 - Auto move from cascade columns to foundation when you have proper sequence to move them  
