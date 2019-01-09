@@ -27,3 +27,8 @@ Beside refactoring and cleaning up files, the below is what I would like to work
 ## Card images are from:
 
 https://code.google.com/archive/p/vector-playing-cards/downloads
+
+## Development Environment
+
+- MacOS High Sierra 10.13.6
+- Google Chrome Version 71.0.3543.0 (Official Build) canary (64-bit)
