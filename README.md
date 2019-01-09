@@ -11,6 +11,10 @@
 - game screen
 - end screen
 
+## Loading json
+
+https://raw.githubusercontent.com/chimanaco/react-freecell-test/master/columns.json
+
 ## Todo
 
 Beside refactoring and cleaning up files, the below is what I would like to work on if I have more time.
