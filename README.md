@@ -24,9 +24,9 @@ Beside refactoring and cleaning up files, the below is what I would like to work
 - Auto move from cascade columns to foundation when you have proper sequence to move them to complete a game 
 - Add some animation with cards on start / end screen
 - Multiple cards move when you have cards in proper sequence and enough room in the free cells
-- Add animation when you clear the game
+- Add animation when you complete the game
 - Responsive if needed
-- favicon
+- favicon if needed
 - Write test
 
 ## Card images are from:
