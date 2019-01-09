@@ -4,6 +4,7 @@
 
 - `$ yarn` - setup and download files
 - `$ yarn start` - run with local server
+- open `http://localhost:3000/` on your browser
 
 ## What I have
 
