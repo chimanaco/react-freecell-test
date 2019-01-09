@@ -103,7 +103,7 @@ class Board extends React.Component {
   componentDidMount() {
     axios
       .get(
-        `https://raw.githubusercontent.com/chimanaco/react-freecell/master/columns.json?token=ABryAs1XPIijuJsal12l32503oshRTkBks5cPf6cwA%3D%3D`
+        `https://raw.githubusercontent.com/chimanaco/react-freecell-test/master/columns.json`
       )
       .then(res => {
         const cards = res.data;
